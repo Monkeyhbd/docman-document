@@ -1,0 +1,28 @@
+{
+	"title": "DocMan 文档",
+	"describe": "DocMan 官方文档",
+	"author": "Monkeyhbd",
+	"path": "./",
+	"list": [
+		{
+			"title": "DocMan 简介",
+			"describe": "自由开源的文档类网站生成器",
+			"path": "./01.md"
+		},
+		{
+			"title": "DocMan 安装",
+			"describe": "从 Gitee 或 GitHub 获取源码",
+			"path": "./02.md"
+		},
+		{
+			"title": "DocMan 文档目录",
+			"describe": "文档目录索引文件 index.json",
+			"path": "./03.md"
+		},
+		{
+			"title": "DocMan 配置文件",
+			"describe": "配置文件 docman.config.json",
+			"path": "./04.md"
+		}
+	]
+}
