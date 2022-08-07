@@ -5,24 +5,60 @@
 	"path": "./",
 	"list": [
 		{
-			"title": "DocMan 简介",
-			"describe": "自由开源的文档类网站生成器",
-			"path": "./01.md"
+			"title": "DocMan",
+			"list": [
+				{
+					"title": "DocMan 简介",
+					"describe": "自由开源的文档类网站生成器",
+					"path": "./01.md"
+				},
+				{
+					"title": "DocMan 安装",
+					"describe": "从 Gitee 或 GitHub 获取源码",
+					"path": "./02.md"
+				},
+				{
+					"title": "DocMan 文档目录",
+					"describe": "文档目录索引文件 index.json",
+					"path": "./03.md"
+				},
+				{
+					"title": "DocMan 配置文件",
+					"describe": "配置文件 docman.config.json",
+					"path": "./04.md"
+				}
+			]
 		},
 		{
-			"title": "DocMan 安装",
-			"describe": "从 Gitee 或 GitHub 获取源码",
-			"path": "./02.md"
-		},
-		{
-			"title": "DocMan 文档目录",
-			"describe": "文档目录索引文件 index.json",
-			"path": "./03.md"
-		},
-		{
-			"title": "DocMan 配置文件",
-			"describe": "配置文件 docman.config.json",
-			"path": "./04.md"
+			"title": "开始使用 DocMan",
+			"describe": "在服务器上部署 DocMan 站点",
+			"list": [
+				{
+					"title": "安装",
+					"describe": "从 Gitee 或 GitHub 克隆",
+					"path": "./11.md"
+				},
+				{
+					"title": "导入",
+					"describe": "导入和配置文档项目",
+					"path": "./12.md"
+				},
+				{
+					"title": "生成",
+					"describe": "运行 DocMan 生成文档站点",
+					"path": "./13.md"
+				},
+				{
+					"title": "部署",
+					"describe": "使用 Nginx / Apache 部署文档站点",
+					"path": "./14.md"
+				},
+				{
+					"title": "版本控制建议",
+					"describe": "关于版本控制的官方建议",
+					"path": "./15.md"
+				}
+			]
 		}
 	]
 }
