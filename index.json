@@ -1,5 +1,5 @@
 {
-	"title": "DocMan 文档",
+	"title": "DocMan 官方文档",
 	"describe": "DocMan 官方文档",
 	"author": "Monkeyhbd",
 	"path": "./",
@@ -10,7 +10,8 @@
 				{
 					"title": "DocMan 简介",
 					"describe": "自由开源的文档类网站生成器",
-					"path": "./01.md"
+					"path": "./01.md",
+					"rename": "index"
 				},
 				{
 					"title": "DocMan 安装",
@@ -57,6 +58,17 @@
 					"title": "版本控制建议",
 					"describe": "关于版本控制的官方建议",
 					"path": "./15.md"
+				}
+			]
+		},
+		{
+			"title": "关于我们",
+			"describe": "DocMan 和 DocMan 开发团队",
+			"list": [
+				{
+					"title": "问答",
+					"describe": "Q&A",
+					"path": "./92.md"
 				}
 			]
 		}
