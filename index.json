@@ -5,34 +5,14 @@
 	"path": "./",
 	"list": [
 		{
-			"title": "DocMan",
-			"list": [
-				{
-					"title": "DocMan 简介",
-					"describe": "自由开源的文档类网站生成器",
-					"path": "./01.md",
-					"rename": "index"
-				},
-				{
-					"title": "DocMan 安装",
-					"describe": "从 Gitee 或 GitHub 获取源码",
-					"path": "./02.md"
-				},
-				{
-					"title": "DocMan 文档目录",
-					"describe": "文档目录索引文件 index.json",
-					"path": "./03.md"
-				},
-				{
-					"title": "DocMan 配置文件",
-					"describe": "配置文件 docman.config.json",
-					"path": "./04.md"
-				}
-			]
+			"title": "DocMan 简介",
+			"describe": "自由开源的文档类网站生成器",
+			"path": "./01.md",
+			"rename": "index"
 		},
 		{
 			"title": "开始使用 DocMan",
-			"describe": "在服务器上部署 DocMan 站点",
+			"describe": "只需 4 步即可生成并部署站点",
 			"list": [
 				{
 					"title": "安装",
@@ -58,6 +38,22 @@
 					"title": "版本控制建议",
 					"describe": "关于版本控制的官方建议",
 					"path": "./15.md"
+				}
+			]
+		},
+		{
+			"title": "配置",
+			"describe": "DocMan 基本配置和扩展配置",
+			"list": [
+				{
+					"title": "DocMan 文档目录",
+					"describe": "index.json",
+					"path": "./31.md"
+				},
+				{
+					"title": "DocMan 配置文件",
+					"describe": "docman.config.json",
+					"path": "./32.md"
 				}
 			]
 		},
