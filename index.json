@@ -11,7 +11,7 @@
 			"rename": "index"
 		},
 		{
-			"title": "开始使用 DocMan",
+			"title": "开始使用",
 			"describe": "只需 4 步即可生成并部署站点",
 			"list": [
 				{
@@ -46,7 +46,7 @@
 			"describe": "DocMan 基本配置和扩展配置",
 			"list": [
 				{
-					"title": "DocMan 文档目录",
+					"title": "目录索引文件",
 					"describe": "index.json",
 					"path": "./31.md"
 				},
