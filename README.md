@@ -2,7 +2,15 @@
 
 DocMan 是一个自由开源的文档站点生成器，它可以让我们优雅、简洁的生成和部署开发文档，API 接口文档，教程，笔记等多种类型的站点。
 
-你也可以把本项目当作一个 DocMan 文档项目的例子，用 DocMan 将本项目生成为文档站点。
+## 项目地址
+
+DocMan：[Gitee](https://gitee.com/monkeyhbd/docman) | [GitHub](https://github.com/monkeyhbd/docman)
+
+Docman 文档：[Gitee](https://gitee.com/monkeyhbd/docman-document) | [GitHub](https://github.com/monkeyhbd/docman-document)
+
+## 尝试一下
+
+你可以将本项目当作一个 DocMan 文档项目的示例，用 DocMan 将本项目生成为文档站点。
 
 进入 DocMan 实例
 
